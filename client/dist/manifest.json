@@ -31,8 +31,8 @@
       "type": "image/png"
     }
   ],
-  "name": "Just Another Text Editor",
-  "short_name": "J.A.T.E",
+  "name": "Another online / offline text editor!",
+  "short_name": "CodeSync",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
