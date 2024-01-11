@@ -19,7 +19,7 @@
 You will be able to pull up the application within a provided URL.
 
 ## Usage
-![demo of the project]()
+![demo of the project](./assets/images/Demo.PNG)
 After pulling up your application, you can intall the webpage for an offline experience. 
 
 ## License
