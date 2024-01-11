@@ -34,7 +34,7 @@ h1 {
 }
 
 .navbar-brand img {
-  padding-top: 10px;
+  padding-top: 5px;
 }
 
 .loading-spinner {
@@ -157,12 +157,12 @@ h1 {
 }
 
 .btn.btn-dark {
-  background-color: #1a1a1a;
-  color: #d9e9e8;
+  background-color: #5b6ccfe6;
+  color: #000000;
 }
 
 .btn.btn-dark:hover {
-  background-color: #5f5f5f;
+  background-color: #d8dcef;
 }
 
 .btn.btn-white {
